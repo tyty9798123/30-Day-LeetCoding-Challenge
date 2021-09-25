@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/528/week-1/3283/
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 int singleNumber(int *nums, int numsSize);
 int singleNumber2(int *nums, int numsSize);
